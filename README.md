@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brandon-the-Lecturer
 - 👀 I’m interested in Big Data
 - 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on everything that needs to automated
+- 💞️ I’m looking to collaborate on everything that needs to be automated
 - 📫 How to reach me github
 
 <!---
